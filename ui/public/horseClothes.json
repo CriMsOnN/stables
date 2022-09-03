@@ -1,0 +1,2634 @@
+{
+  "horse_accessories": [
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_000_TINT_001",
+      "category_hashname": "horse_accessories",
+      "ped_type": "horse",
+      "category_hash": 3545239133,
+      "hash": 3607917546,
+      "hash_dec_signed": -687049750,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_000_TINT_007",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 4051118279,
+      "hash_dec_signed": -243849017,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_001_TINT_001",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1759203245,
+      "hash_dec_signed": 1759203245,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_002_TINT_001",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1657122858,
+      "hash_dec_signed": 1657122858,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_003_TINT_001",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 4042089215,
+      "hash_dec_signed": -252878081,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_004_TINT_001",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 779579110,
+      "hash_dec_signed": 779579110,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_004_TINT_002",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1969454269,
+      "hash_dec_signed": 1969454269,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_004_TINT_003",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1251551017,
+      "hash_dec_signed": 1251551017,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_004_TINT_004",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1311845985,
+      "hash_dec_signed": 1311845985,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_005_TINT_001",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1208587318,
+      "hash_dec_signed": 1208587318,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_005_TINT_002",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 2006479699,
+      "hash_dec_signed": 2006479699,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_005_TINT_003",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 2909658877,
+      "hash_dec_signed": -1385308419,
+      "category_hash_dec_signed": -749728163
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MASK_NEW_005_TINT_004",
+      "category_hashname": "horse_accessories",
+      "category_hash": 3545239133,
+      "hash": 1529002600,
+      "hash_dec_signed": 1529002600,
+      "category_hash_dec_signed": -749728163
+    }
+  ],
+  "horse_bedrolls": [
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_000",
+      "category_hashname": "horse_bedrolls",
+      "ped_type": "horse",
+      "category_hash": 4021492001,
+      "hash": 2681838973,
+      "hash_dec_signed": -1613128323,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2359260937,
+      "hash_dec_signed": -1935706359,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2069222518,
+      "hash_dec_signed": 2069222518,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 3626339860,
+      "hash_dec_signed": -668627436,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_NEW_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 180482892,
+      "hash_dec_signed": 180482892,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_USED_000",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 414935856,
+      "hash_dec_signed": 414935856,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_USED_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 317775775,
+      "hash_dec_signed": 317775775,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_USED_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 457437253,
+      "hash_dec_signed": 457437253,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_USED_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1436607742,
+      "hash_dec_signed": 1436607742,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_00_USED_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 4289739038,
+      "hash_dec_signed": -5228258,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_NEW_000",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 139352826,
+      "hash_dec_signed": 139352826,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_NEW_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2642838888,
+      "hash_dec_signed": -1652128408,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_NEW_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1929162841,
+      "hash_dec_signed": 1929162841,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_NEW_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1773313477,
+      "hash_dec_signed": 1773313477,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_NEW_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 3529043728,
+      "hash_dec_signed": -765923568,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_USED_000",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2552318748,
+      "hash_dec_signed": -1742648548,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_USED_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1174316760,
+      "hash_dec_signed": 1174316760,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_USED_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2789435404,
+      "hash_dec_signed": -1505531892,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_USED_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2089424026,
+      "hash_dec_signed": 2089424026,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_01_USED_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2379724597,
+      "hash_dec_signed": -1915242699,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_NEW_000",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2717748035,
+      "hash_dec_signed": -1577219261,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_NEW_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 3025350638,
+      "hash_dec_signed": -1269616658,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_NEW_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 3160817684,
+      "hash_dec_signed": -1134149612,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_NEW_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 3491817353,
+      "hash_dec_signed": -803149943,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_NEW_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1773279965,
+      "hash_dec_signed": 1773279965,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_USED_000",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1266550546,
+      "hash_dec_signed": 1266550546,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_USED_001",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 918478224,
+      "hash_dec_signed": 918478224,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_USED_002",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 659832507,
+      "hash_dec_signed": 659832507,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_USED_003",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 2216458314,
+      "hash_dec_signed": -2078508982,
+      "category_hash_dec_signed": -273475295
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BEDROLL_02_USED_004",
+      "category_hashname": "horse_bedrolls",
+      "category_hash": 4021492001,
+      "hash": 1943099316,
+      "hash_dec_signed": 1943099316,
+      "category_hash_dec_signed": -273475295
+    }
+  ],
+  "horse_blankets": [
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_00_NEW_000",
+      "category_hashname": "horse_blankets",
+      "ped_type": "horse",
+      "category_hash": 399422490,
+      "hash": 1351319737,
+      "hash_dec_signed": 1351319737,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_00_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1741336375,
+      "hash_dec_signed": 1741336375,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_00_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3954489101,
+      "hash_dec_signed": -340478195,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_00_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4195439558,
+      "hash_dec_signed": -99527738,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_00_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 257130058,
+      "hash_dec_signed": 257130058,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_01_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2548819561,
+      "hash_dec_signed": -1746147735,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_01_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 647332810,
+      "hash_dec_signed": 647332810,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_01_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 963881350,
+      "hash_dec_signed": 963881350,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_01_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1244220145,
+      "hash_dec_signed": 1244220145,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_01_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3976302755,
+      "hash_dec_signed": -318664541,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_02_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3153089429,
+      "hash_dec_signed": -1141877867,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_02_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2184863786,
+      "hash_dec_signed": -2110103510,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_02_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1396310570,
+      "hash_dec_signed": 1396310570,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_02_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2969025956,
+      "hash_dec_signed": -1325941340,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_02_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4257470163,
+      "hash_dec_signed": -37497133,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_03_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1797293285,
+      "hash_dec_signed": 1797293285,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_03_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2029723802,
+      "hash_dec_signed": 2029723802,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_03_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2410499582,
+      "hash_dec_signed": -1884467714,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_03_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2648762981,
+      "hash_dec_signed": -1646204315,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_03_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 875108083,
+      "hash_dec_signed": 875108083,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_04_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2905092357,
+      "hash_dec_signed": -1389874939,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_04_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3270466707,
+      "hash_dec_signed": -1024500589,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_04_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3366217725,
+      "hash_dec_signed": -928749571,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_04_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1180033890,
+      "hash_dec_signed": 1180033890,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_04_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3689877142,
+      "hash_dec_signed": -605090154,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_05_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2035405959,
+      "hash_dec_signed": 2035405959,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_05_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3228820170,
+      "hash_dec_signed": -1066147126,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_05_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3989519736,
+      "hash_dec_signed": -305447560,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_05_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2748656013,
+      "hash_dec_signed": -1546311283,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_05_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2979743001,
+      "hash_dec_signed": -1315224295,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_06_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3453156246,
+      "hash_dec_signed": -841811050,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_06_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3231179052,
+      "hash_dec_signed": -1063788244,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_06_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3543369307,
+      "hash_dec_signed": -751597989,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_06_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3825838087,
+      "hash_dec_signed": -469129209,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_06_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4131933316,
+      "hash_dec_signed": -163033980,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_07_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3959688329,
+      "hash_dec_signed": -335278967,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_07_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 432400396,
+      "hash_dec_signed": 432400396,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_07_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1690205688,
+      "hash_dec_signed": 1690205688,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_07_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 846764397,
+      "hash_dec_signed": 846764397,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_07_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4011251,
+      "hash_dec_signed": 4011251,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_08_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1000396653,
+      "hash_dec_signed": 1000396653,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_08_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1274148879,
+      "hash_dec_signed": 1274148879,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_08_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1594859082,
+      "hash_dec_signed": 1594859082,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_08_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1910490090,
+      "hash_dec_signed": 1910490090,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_08_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4110862898,
+      "hash_dec_signed": -184104398,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_09_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 711799784,
+      "hash_dec_signed": 711799784,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_09_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 4289846898,
+      "hash_dec_signed": -5120398,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_09_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 231242399,
+      "hash_dec_signed": 231242399,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_09_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 550805695,
+      "hash_dec_signed": 550805695,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_09_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 310248466,
+      "hash_dec_signed": 310248466,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_10_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3811184720,
+      "hash_dec_signed": -483782576,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_10_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1486158628,
+      "hash_dec_signed": 1486158628,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_10_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3655433659,
+      "hash_dec_signed": -639533637,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_10_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2872057945,
+      "hash_dec_signed": -1422909351,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_10_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2655422086,
+      "hash_dec_signed": -1639545210,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_11_NEW_000",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2426609558,
+      "hash_dec_signed": -1868357738,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_11_NEW_001",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2597729276,
+      "hash_dec_signed": -1697238020,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_11_NEW_002",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 1404249527,
+      "hash_dec_signed": 1404249527,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_11_NEW_003",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 2103671063,
+      "hash_dec_signed": 2103671063,
+      "category_hash_dec_signed": 399422490
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_BLANKET_11_NEW_004",
+      "category_hashname": "horse_blankets",
+      "category_hash": 399422490,
+      "hash": 3345517856,
+      "hash_dec_signed": -949449440,
+      "category_hash_dec_signed": 399422490
+    }
+  ],
+  "horse_saddlebags": [
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "ped_type": "horse",
+      "category_hash": 2152012837,
+      "hash": 1383590330,
+      "hash_dec_signed": 1383590330,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 548046368,
+      "hash_dec_signed": 548046368,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1467937844,
+      "hash_dec_signed": 1467937844,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 691935155,
+      "hash_dec_signed": 691935155,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3826290009,
+      "hash_dec_signed": -468677287,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 372060605,
+      "hash_dec_signed": 372060605,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3568742097,
+      "hash_dec_signed": -726225199,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 578865764,
+      "hash_dec_signed": 578865764,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4240637673,
+      "hash_dec_signed": -54329623,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3394509324,
+      "hash_dec_signed": -900457972,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_005",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2565650238,
+      "hash_dec_signed": -1729317058,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_006",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3954924762,
+      "hash_dec_signed": -340042534,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_007",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2707376163,
+      "hash_dec_signed": -1587591133,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_008",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2283148689,
+      "hash_dec_signed": -2011818607,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_003_NEW_009",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1039335756,
+      "hash_dec_signed": 1039335756,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 669471981,
+      "hash_dec_signed": 669471981,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1026719619,
+      "hash_dec_signed": 1026719619,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4255842421,
+      "hash_dec_signed": -39124875,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 282830550,
+      "hash_dec_signed": 282830550,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1640122530,
+      "hash_dec_signed": 1640122530,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_005",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1952443869,
+      "hash_dec_signed": 1952443869,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_006",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 345943136,
+      "hash_dec_signed": 345943136,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_007",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3806316771,
+      "hash_dec_signed": -488650525,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_008",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4043695407,
+      "hash_dec_signed": -251271889,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_004_NEW_009",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3208249752,
+      "hash_dec_signed": -1086717544,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_005_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3472698931,
+      "hash_dec_signed": -822268365,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_005_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3142551256,
+      "hash_dec_signed": -1152416040,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_005_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2873747149,
+      "hash_dec_signed": -1421220147,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_005_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2562474418,
+      "hash_dec_signed": -1732492878,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_005_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2256215344,
+      "hash_dec_signed": -2038751952,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_006_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 1020916485,
+      "hash_dec_signed": 1020916485,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_006_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 791435178,
+      "hash_dec_signed": 791435178,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_006_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3767384686,
+      "hash_dec_signed": -527582610,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_006_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3535347397,
+      "hash_dec_signed": -759619899,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_006_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3023299011,
+      "hash_dec_signed": -1271668285,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_NEW_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3222927364,
+      "hash_dec_signed": -1072039932,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_NEW_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2346782611,
+      "hash_dec_signed": -1948184685,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_NEW_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2639868547,
+      "hash_dec_signed": -1655098749,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_NEW_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3849339572,
+      "hash_dec_signed": -445627724,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_NEW_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4177226186,
+      "hash_dec_signed": -117741110,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_USED_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3227165866,
+      "hash_dec_signed": -1067801430,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_USED_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 2920349719,
+      "hash_dec_signed": -1374617577,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_USED_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3035893209,
+      "hash_dec_signed": -1259074087,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_USED_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3803048268,
+      "hash_dec_signed": -491919028,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAGUPGRADE_USED_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 3494429826,
+      "hash_dec_signed": -800537470,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_USED_000",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4006051442,
+      "hash_dec_signed": -288915854,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_USED_001",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 720369354,
+      "hash_dec_signed": 720369354,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_USED_002",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 491707272,
+      "hash_dec_signed": 491707272,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_USED_003",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 243875325,
+      "hash_dec_signed": 243875325,
+      "category_hash_dec_signed": -2142954459
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORSE_SADDLEBAG_USED_004",
+      "category_hashname": "HORSE_SADDLEBAGS",
+      "category_hash": 2152012837,
+      "hash": 4039311985,
+      "hash_dec_signed": -255655311,
+      "category_hash_dec_signed": -2142954459
+    }
+  ],
+  "horse_saddles": [
+    {
+      "hashname": "HORSE_EQUIPMENT_BIGVALLEY_DOUBLEFORK_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "ped_type": "horse",
+      "category_hash": 3131565592,
+      "hash": 2415718507,
+      "hash_dec_signed": -1879248789,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1430711162,
+      "hash_dec_signed": 1430711162,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2388975029,
+      "hash_dec_signed": -1905992267,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1888657937,
+      "hash_dec_signed": 1888657937,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3233825431,
+      "hash_dec_signed": -1061141865,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3195026935,
+      "hash_dec_signed": -1099940361,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3847293880,
+      "hash_dec_signed": -447673416,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2105105778,
+      "hash_dec_signed": 2105105778,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 86166765,
+      "hash_dec_signed": 86166765,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1531312434,
+      "hash_dec_signed": 1531312434,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 563971554,
+      "hash_dec_signed": 563971554,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2109423132,
+      "hash_dec_signed": 2109423132,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1276795611,
+      "hash_dec_signed": 1276795611,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4055541261,
+      "hash_dec_signed": -239426035,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3863513944,
+      "hash_dec_signed": -431453352,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3539625148,
+      "hash_dec_signed": -755342148,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 413102085,
+      "hash_dec_signed": 413102085,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4150799767,
+      "hash_dec_signed": -144167529,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 487323890,
+      "hash_dec_signed": 487323890,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_CHARRO_01_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 171561806,
+      "hash_dec_signed": 171561806,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HIGHPLAINS_CUTTING_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3218117906,
+      "hash_dec_signed": -1076849390,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 387267141,
+      "hash_dec_signed": 387267141,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 97982409,
+      "hash_dec_signed": 97982409,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1261904520,
+      "hash_dec_signed": 1261904520,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2029026810,
+      "hash_dec_signed": 2029026810,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 776366243,
+      "hash_dec_signed": 776366243,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 471090239,
+      "hash_dec_signed": 471090239,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 893370428,
+      "hash_dec_signed": 893370428,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3648353217,
+      "hash_dec_signed": -646614079,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4089358419,
+      "hash_dec_signed": -205608877,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 33014981,
+      "hash_dec_signed": 33014981,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 275341736,
+      "hash_dec_signed": 275341736,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 785227376,
+      "hash_dec_signed": 785227376,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1024211693,
+      "hash_dec_signed": 1024211693,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4182595107,
+      "hash_dec_signed": -112372189,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1067410126,
+      "hash_dec_signed": 1067410126,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 353177002,
+      "hash_dec_signed": 353177002,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3943774635,
+      "hash_dec_signed": -351192661,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3226461225,
+      "hash_dec_signed": -1068506071,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MCCLELLAN_01_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 233078609,
+      "hash_dec_signed": 233078609,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOONSHINERSADDLE_001_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3166569271,
+      "hash_dec_signed": -1128398025,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1539069123,
+      "hash_dec_signed": 1539069123,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2367043446,
+      "hash_dec_signed": -1927923850,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1049926260,
+      "hash_dec_signed": 1049926260,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1891335873,
+      "hash_dec_signed": 1891335873,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3508322178,
+      "hash_dec_signed": -786645118,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3127546398,
+      "hash_dec_signed": -1167420898,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3525692576,
+      "hash_dec_signed": -769274720,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1832924306,
+      "hash_dec_signed": 1832924306,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3140702327,
+      "hash_dec_signed": -1154264969,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2375906636,
+      "hash_dec_signed": -1919060660,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1533251801,
+      "hash_dec_signed": 1533251801,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 337019456,
+      "hash_dec_signed": 337019456,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2144885186,
+      "hash_dec_signed": 2144885186,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2280923639,
+      "hash_dec_signed": -2014043657,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3249476968,
+      "hash_dec_signed": -1045490328,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4083841246,
+      "hash_dec_signed": -211126050,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2631486401,
+      "hash_dec_signed": -1663480895,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3465293602,
+      "hash_dec_signed": -829673694,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_MOTHERHUBBARD_01_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 675603090,
+      "hash_dec_signed": 675603090,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_NATURALISTSADDLE_001_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1270980548,
+      "hash_dec_signed": 1270980548,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3238745168,
+      "hash_dec_signed": -1056222128,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3536385995,
+      "hash_dec_signed": -758581301,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3853720991,
+      "hash_dec_signed": -441246305,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4084447520,
+      "hash_dec_signed": -210519776,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2049164934,
+      "hash_dec_signed": 2049164934,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2294506437,
+      "hash_dec_signed": -2000460859,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3045075551,
+      "hash_dec_signed": -1249891745,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2083280908,
+      "hash_dec_signed": 2083280908,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1877655433,
+      "hash_dec_signed": 1877655433,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2719556581,
+      "hash_dec_signed": -1575410715,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2480572264,
+      "hash_dec_signed": -1814395032,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2832937333,
+      "hash_dec_signed": -1462029963,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2602341880,
+      "hash_dec_signed": -1692625416,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2082043658,
+      "hash_dec_signed": 2082043658,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2702524677,
+      "hash_dec_signed": -1592442619,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3008882058,
+      "hash_dec_signed": -1286085238,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2379258492,
+      "hash_dec_signed": -1915708804,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2683453119,
+      "hash_dec_signed": -1611514177,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_01_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4234868655,
+      "hash_dec_signed": -60098641,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3116258653,
+      "hash_dec_signed": -1178708643,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 32269760,
+      "hash_dec_signed": 32269760,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 254738501,
+      "hash_dec_signed": 254738501,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3844844607,
+      "hash_dec_signed": -450122689,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4105259850,
+      "hash_dec_signed": -189707446,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 942133810,
+      "hash_dec_signed": 942133810,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3730450693,
+      "hash_dec_signed": -564516603,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3968346417,
+      "hash_dec_signed": -326620879,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3660973197,
+      "hash_dec_signed": -633994099,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3355205658,
+      "hash_dec_signed": -939761638,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3081977736,
+      "hash_dec_signed": -1212989560,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2813108091,
+      "hash_dec_signed": -1481859205,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2503211662,
+      "hash_dec_signed": -1791755634,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3761896463,
+      "hash_dec_signed": -533070833,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4136085674,
+      "hash_dec_signed": -158881622,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1204996927,
+      "hash_dec_signed": 1204996927,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 368797585,
+      "hash_dec_signed": 368797585,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3815539316,
+      "hash_dec_signed": -479427980,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_02_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1086668068,
+      "hash_dec_signed": 1086668068,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1691272927,
+      "hash_dec_signed": 1691272927,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2651601241,
+      "hash_dec_signed": -1643366055,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2420678098,
+      "hash_dec_signed": -1874289198,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3159553510,
+      "hash_dec_signed": -1135413786,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3592104342,
+      "hash_dec_signed": -702862954,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3352661259,
+      "hash_dec_signed": -942306037,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 736792276,
+      "hash_dec_signed": 736792276,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2376838359,
+      "hash_dec_signed": -1918128937,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1669650566,
+      "hash_dec_signed": 1669650566,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1766712344,
+      "hash_dec_signed": 1766712344,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1625183029,
+      "hash_dec_signed": 1625183029,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1988656777,
+      "hash_dec_signed": 1988656777,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 773942716,
+      "hash_dec_signed": 773942716,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1520324460,
+      "hash_dec_signed": 1520324460,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 797735233,
+      "hash_dec_signed": 797735233,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4249752773,
+      "hash_dec_signed": -45214523,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3055486568,
+      "hash_dec_signed": -1239480728,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 568909306,
+      "hash_dec_signed": 568909306,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_03_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3666136883,
+      "hash_dec_signed": -628830413,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3293872908,
+      "hash_dec_signed": -1001094388,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3602851809,
+      "hash_dec_signed": -692115487,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 619856966,
+      "hash_dec_signed": 619856966,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 255924452,
+      "hash_dec_signed": 255924452,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 50757743,
+      "hash_dec_signed": 50757743,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_IMPROVED_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1892047853,
+      "hash_dec_signed": 1892047853,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_SPECIAL_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3345762009,
+      "hash_dec_signed": -949205287,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 775895650,
+      "hash_dec_signed": 775895650,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1712007673,
+      "hash_dec_signed": 1712007673,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 861783199,
+      "hash_dec_signed": 861783199,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 4242659236,
+      "hash_dec_signed": -52308060,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 154890327,
+      "hash_dec_signed": 154890327,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_NEW_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 540384851,
+      "hash_dec_signed": 540384851,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_000",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1397390681,
+      "hash_dec_signed": 1397390681,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_001",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3623651007,
+      "hash_dec_signed": -671316289,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_002",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 3921127989,
+      "hash_dec_signed": -373839307,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_003",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 1818374028,
+      "hash_dec_signed": 1818374028,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_004",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 2384622348,
+      "hash_dec_signed": -1910344948,
+      "category_hash_dec_signed": -1163401704
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_WESTERN_04_STOCK_USED_SADDLE_005",
+      "category_hashname": "horse_saddles",
+      "category_hash": 3131565592,
+      "hash": 518132873,
+      "hash_dec_signed": 518132873,
+      "category_hash_dec_signed": -1163401704
+    }
+  ],
+  "saddle_horns": [
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_000",
+      "category_hashname": "saddle_horns",
+      "ped_type": "horse",
+      "category_hash": 88372018,
+      "hash": 3334701557,
+      "hash_dec_signed": -960265739,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_001",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3689327675,
+      "hash_dec_signed": -605639621,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_002",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 707315902,
+      "hash_dec_signed": 707315902,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_003",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3789305942,
+      "hash_dec_signed": -505661354,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_004",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 873684163,
+      "hash_dec_signed": 873684163,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_005",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 1044410653,
+      "hash_dec_signed": 1044410653,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_006",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 276665752,
+      "hash_dec_signed": 276665752,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_007",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 2597497408,
+      "hash_dec_signed": -1697469888,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_008",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3976974005,
+      "hash_dec_signed": -317993291,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_009",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 4163298539,
+      "hash_dec_signed": -131668757,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_010",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 4174047011,
+      "hash_dec_signed": -120920285,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_011",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3786520817,
+      "hash_dec_signed": -508446479,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_012",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 859626502,
+      "hash_dec_signed": 859626502,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_013",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 4036777710,
+      "hash_dec_signed": -258189586,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_014",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 4205079294,
+      "hash_dec_signed": -89888002,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_015",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3386018139,
+      "hash_dec_signed": -908949157,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_016",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3692506596,
+      "hash_dec_signed": -602460700,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_017",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 1467753644,
+      "hash_dec_signed": 1467753644,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_018",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3250256168,
+      "hash_dec_signed": -1044711128,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_019",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 2496470861,
+      "hash_dec_signed": -1798496435,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_020",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 2282095195,
+      "hash_dec_signed": -2012872101,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_021",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 3196677985,
+      "hash_dec_signed": -1098289311,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_022",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 2899233772,
+      "hash_dec_signed": -1395733524,
+      "category_hash_dec_signed": 88372018
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_HORN_NEW_023",
+      "category_hashname": "saddle_horns",
+      "category_hash": 88372018,
+      "hash": 818140116,
+      "hash_dec_signed": 818140116,
+      "category_hash_dec_signed": 88372018
+    }
+  ],
+  "saddle_lanterns": [
+    {
+      "hashname": "HORSE_EQUIPMENT_SADDLE_LANTERN_BASIC",
+      "category_hashname": "saddle_lanterns",
+      "ped_type": "horse",
+      "category_hash": 355515932,
+      "hash": 1667119228,
+      "hash_dec_signed": 1667119228,
+      "category_hash_dec_signed": 355515932
+    }
+  ],
+  "saddle_stirrups": [
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_000",
+      "category_hashname": "saddle_stirrups",
+      "ped_type": "horse",
+      "category_hash": 3664621002,
+      "hash": 1484641439,
+      "hash_dec_signed": 1484641439,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_001",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 1739551490,
+      "hash_dec_signed": 1739551490,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_002",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 1964477906,
+      "hash_dec_signed": 1964477906,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_003",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 2185635887,
+      "hash_dec_signed": -2109331409,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_004",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 3415882454,
+      "hash_dec_signed": -879084842,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_005",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 2666062196,
+      "hash_dec_signed": -1628905100,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_006",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 3879727649,
+      "hash_dec_signed": -415239647,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_007",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 3186728837,
+      "hash_dec_signed": -1108238459,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_008",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 62106376,
+      "hash_dec_signed": 62106376,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_009",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 3635303678,
+      "hash_dec_signed": -659663618,
+      "category_hash_dec_signed": -630346294
+    },
+    {
+      "hashname": "HORSE_EQUIPMENT_STIRRUP_NEW_010",
+      "category_hashname": "saddle_stirrups",
+      "category_hash": 3664621002,
+      "hash": 2366359514,
+      "hash_dec_signed": -1928607782,
+      "category_hash_dec_signed": -630346294
+    }
+  ]
+}
