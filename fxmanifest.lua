@@ -4,7 +4,6 @@ rdr3_warning "I acknowledge that this is a prerelease build of RedM, and I am aw
 lua54 "yes"
 
 author "Cr1MsOn"
-description "Saloon script with the ability to serve people"
 
 client_scripts {
     "@PolyZone/client.lua",
