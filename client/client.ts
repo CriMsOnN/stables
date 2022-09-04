@@ -1,15 +1,12 @@
-import { netEvent, Delay, registerNUIProxy } from "./utils";
-import { Events } from "../shared/events";
-import { Component, ConfigProps } from "../shared/types";
-import Horses, { HorsesProps } from "./classes/Horses";
-import promptManager from "./classes/Prompt";
-export const config = JSON.parse(
-  LoadResourceFile(GetCurrentResourceName(), "config.json")
-) as ConfigProps;
+import { netEvent, Delay, registerNUIProxy } from './utils';
+import { Events } from '../shared/events';
+import { Component, ConfigProps } from '../shared/types';
+import { Natives } from '../shared/utils';
+import Horses, { HorsesProps } from './classes/Horses';
+import promptManager from './classes/Prompt';
+export const config = JSON.parse(LoadResourceFile(GetCurrentResourceName(), 'config.json')) as ConfigProps;
 
-export const clothes = JSON.parse(
-  LoadResourceFile(GetCurrentResourceName(), "horseClothes.json")
-) as Component;
+export const clothes = JSON.parse(LoadResourceFile(GetCurrentResourceName(), 'horseClothes.json')) as Component;
 
 const exp = global.exports;
 
@@ -18,13 +15,28 @@ let activeHorsePeds: number[] = [];
 let isPlayerInsideStable = false;
 let activeStable: string | null = null;
 
-setImmediate(async () => {
+// setImmediate(async () => {
+//   initializeScript();
+// });
+
+onNet(Events.selectedCharacter, () => {
+  initializeScript();
+});
+
+on('onResourceStart', (resourceName: string) => {
+  console.log('restarted');
+  if (GetCurrentResourceName() === resourceName) {
+    initializeScript();
+  }
+});
+
+const initializeScript = async () => {
   const [horses] = await netEvent<HorsesProps[]>(Events.getPlayerHorses);
   for (const horse of horses) {
     Horses.setHorse(horse);
   }
   for (const stable of Object.values(config.stables)) {
-    emit("addBoxZone", stable.polyZone.options.name, {
+    emit('addBoxZone', stable.polyZone.options.name, {
       x: stable.polyZone.x,
       y: stable.polyZone.y,
       z: stable.polyZone.z,
@@ -33,9 +45,9 @@ setImmediate(async () => {
       options: stable.polyZone.options,
     });
   }
-});
+};
 
-on("pointInside", async (isInside: boolean, name: string) => {
+on('pointInside', async (isInside: boolean, name: string) => {
   if (isInside && config.stables[name]) {
     isPlayerInsideStable = true;
     activeStable = name;
@@ -45,51 +57,19 @@ on("pointInside", async (isInside: boolean, name: string) => {
         const spawnPosition = config.stables[name].spawnPositions[i];
         if (horse.position === i + 1 && horse.stored) {
           await requestAndLoadModel(horse.model);
-          const ped = CreatePed(
-            horse.model,
-            spawnPosition.x,
-            spawnPosition.y,
-            spawnPosition.z,
-            spawnPosition.h,
-            0,
-            true,
-            true
-          );
-          Citizen.invokeNative("0x283978A15512B2FE", ped, true);
+          const ped = CreatePed(horse.model, spawnPosition.x, spawnPosition.y, spawnPosition.z, spawnPosition.h, 0, false, true);
+          Natives.SetRandomOutfitVariation(ped, true);
           if (Object.values(horse.components).length > 0) {
-            for (const [key, value] of Object.entries(horse.components)) {
-              const component_hash = clothes[key].category_hash;
-              Citizen.invokeNative(
-                "0xD3A7B003ED343FD9",
-                ped,
-                value,
-                false,
-                true,
-                true
-              );
+            for (const [, value] of Object.entries(horse.components)) {
+              Natives.ApplyShopItemToPed(ped, value, false, true, true);
             }
-            Citizen.invokeNative(
-              "0xCC8CA3E88256E58F",
-              ped,
-              false,
-              true,
-              true,
-              true,
-              false
-            );
+            Natives.UpdatePedVariation(ped, false, true, true, true, false);
           }
 
+          SetPedConfigFlag(ped, 412, true);
           activeHorsePeds.push(ped);
-          const promptHandle = promptManager.createPrompt(
-            `stable_${i}_use`,
-            "Use Horse",
-            parseInt(config.interaction.useHorse)
-          );
-          const promptHandle2 = promptManager.createPrompt(
-            `stable_${i}_customize`,
-            "Customize Horse",
-            parseInt(config.interaction.customizeHorse)
-          );
+          const promptHandle = promptManager.createPrompt(`stable_${i}_use`, 'Use Horse', parseInt(config.interaction.useHorse));
+          const promptHandle2 = promptManager.createPrompt(`stable_${i}_customize`, 'Customize Horse', parseInt(config.interaction.customizeHorse));
           promptHandle.setHoldMode(true);
           promptHandle2.setHoldMode(true);
         }
@@ -111,17 +91,7 @@ setTick(async () => {
   if (isPlayerInsideStable && activeStable !== null) {
     if (config.stables[activeStable]) {
       const [x, y, z] = GetEntityCoords(PlayerPedId(), true);
-      for (
-        let i = 0;
-        i < config.stables[activeStable].spawnPositions.length;
-        i++
-      ) {
-        const usePromptHandle = promptManager.getPromptHandle(
-          `stable_${i}_use`
-        );
-        const customizePromptHandle = promptManager.getPromptHandle(
-          `stable_${i}_customize`
-        );
+      for (let i = 0; i < config.stables[activeStable].spawnPositions.length; i++) {
         if (
           GetDistanceBetweenCoords(
             x,
@@ -136,13 +106,13 @@ setTick(async () => {
           sleep = 0;
           const [retval, entity] = GetPlayerTargetEntity(PlayerId());
           if (retval && entity) {
-            const groupId = Citizen.invokeNative<number>(
-              "0xB796970BD125FCE8",
-              entity
-            );
-            usePromptHandle.setPromptToGroup(groupId);
-            customizePromptHandle.setPromptToGroup(groupId);
-            if (usePromptHandle && customizePromptHandle) {
+            const usePromptHandle = promptManager.getPromptHandle(`stable_${i}_use`);
+            const customizePromptHandle = promptManager.getPromptHandle(`stable_${i}_customize`);
+            const groupId = Citizen.invokeNative<number>('0xB796970BD125FCE8', entity);
+            // const horse = Horses.getHorseByPosition(activeStable, i + 1);
+            if (usePromptHandle !== undefined && customizePromptHandle !== undefined) {
+              usePromptHandle.setPromptToGroup(groupId);
+              customizePromptHandle.setPromptToGroup(groupId);
               usePromptHandle.setPromptVisible(true);
               usePromptHandle.setPromptEnabled(true);
               customizePromptHandle.setPromptVisible(true);
@@ -150,12 +120,12 @@ setTick(async () => {
               if (usePromptHandle.hasHoldModeCompleted()) {
                 SendNuiMessage(
                   JSON.stringify({
-                    action: "setVisible",
+                    action: 'setVisible',
                     data: true,
                   })
                 );
               } else if (customizePromptHandle.hasHoldModeCompleted()) {
-                console.log("customize completed");
+                console.log('customize completed');
               }
             }
           }
@@ -166,16 +136,12 @@ setTick(async () => {
   await Delay(sleep);
 });
 
-registerNUIProxy<{ success: boolean }>(
-  "saveHorseComponents",
-  Events.saveHorseComponents,
-  (data) => {
-    const [success] = data;
-    console.log(success);
-  }
-);
+registerNUIProxy<{ success: boolean }>('saveHorseComponents', Events.saveHorseComponents, (data) => {
+  const [success] = data;
+  console.log(success);
+});
 
-on("onResourceStop", (resourceName: string) => {
+on('onResourceStop', (resourceName: string) => {
   if (GetCurrentResourceName() === resourceName) {
     if (activeHorsePeds.length > 0) {
       for (let i = 0; i < activeHorsePeds.length; i++) {

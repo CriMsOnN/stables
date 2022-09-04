@@ -1,6 +1,6 @@
-import { Repository } from "typeorm";
-import { AppDataSource } from "../connection";
-import { Horse } from "../models/Horse";
+import { Repository } from 'typeorm';
+import { AppDataSource } from '../connection';
+import { Horse } from '../models/Horse';
 
 export class HorseService {
   private horseRepo: Repository<Horse>;

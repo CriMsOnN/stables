@@ -1,6 +1,6 @@
-import { Entity, Column, PrimaryGeneratedColumn } from "typeorm";
+import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity({ name: "horse_stables" })
+@Entity({ name: 'horse_stables' })
 export class Horse {
   @PrimaryGeneratedColumn()
   id: number;
@@ -11,10 +11,10 @@ export class Horse {
   @Column({ length: 10 })
   horseName: string;
 
-  @Column({ type: "json", default: "[]" })
+  @Column({ type: 'json', default: '[]' })
   metadata: any;
 
-  @Column({ type: "json", default: "[]" })
+  @Column({ type: 'json', default: '[]' })
   components: any;
 
   @Column()

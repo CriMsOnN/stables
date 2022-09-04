@@ -1,22 +1,10 @@
-import winston from "winston";
+export const Delay = (ms: number): Promise<void> => new Promise((res) => setTimeout(res, ms));
 
-export const Delay = (ms: number): Promise<void> =>
-  new Promise((res) => setTimeout(res, ms));
-
-const formatLog = (log: winston.Logform.TransformableInfo) => {
-  if (log.module) {
-    return `${log.label} [${log.level}]: ${log.message}`;
-  }
+export const Natives = {
+  UpdatePedVariation: (ped: number, p1: boolean, p2: boolean, p3: boolean, p4: boolean, p5: boolean) => {
+    Citizen.invokeNative('0xCC8CA3E88256E58F', ped, p1, p2, p3, p4, p5);
+  },
+  ApplyShopItemToPed: (ped: number, componentHash: number, immediately: boolean, isMp: boolean, p4: boolean) => {
+    Citizen.invokeNative('0xD3A7B003ED343FD9', ped, componentHash, immediately, isMp, p4);
+  },
 };
-
-export const mainLogger = winston.createLogger({
-  transports: [
-    new winston.transports.Console({
-      format: winston.format.combine(
-        winston.format.label({ label: "[Stables]" }),
-        winston.format.colorize({ all: true }),
-        winston.format.printf(formatLog)
-      ),
-    }),
-  ],
-});

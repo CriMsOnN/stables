@@ -1,4 +1,4 @@
-import { config } from "../client";
+import { config } from '../client';
 
 export interface HorsesProps {
   horseName: string;
@@ -7,12 +7,12 @@ export interface HorsesProps {
   model: number;
   stable: string;
   position: number;
-  components: Components[];
+  components: number[];
   isActive: boolean;
 }
 
 interface Components {
-  [key: string]: any;
+  [key: string]: number;
 }
 
 class Horses {
@@ -42,6 +42,15 @@ class Horses {
       }
     }
     return horses;
+  }
+
+  public getHorseByPosition(stable: string, position: number): HorsesProps | undefined {
+    const horses = this.getHorsesByStable(stable);
+    for (const [, horse] of horses) {
+      if (horse.position === position) {
+        return horse;
+      }
+    }
   }
 
   public isPositionOccupiedInStable(stable: string, position: number): boolean {

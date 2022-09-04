@@ -1,8 +1,9 @@
-import { Events } from "../../shared/events";
-import { Delay, mainLogger } from "../../shared/utils";
-import { config, Core, horseService } from "../server";
+import { Events } from '../../shared/events';
+import { Delay } from '../../shared/utils';
+import { mainLogger } from '../utils';
+import { config, Core, horseService } from '../server';
 
-const servicesLogger = mainLogger.child({ module: "services" });
+const servicesLogger = mainLogger.child({ module: 'services' });
 
 onNet(Events.getPlayerHorses, async () => {
   const _src = source;
@@ -12,8 +13,6 @@ onNet(Events.getPlayerHorses, async () => {
   console.log(JSON.stringify(playerHorses, null, 2));
   emitNet(Events.getPlayerHorses, _src, playerHorses);
   if (config.debug) {
-    servicesLogger.info(
-      `Player [identifier: ${player.identifier}][cid: ${cid}] has ${playerHorses.length} horses`
-    );
+    servicesLogger.info(`Player [identifier: ${player.identifier}][cid: ${cid}] has ${playerHorses.length} horses`);
   }
 });
