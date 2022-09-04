@@ -7,4 +7,7 @@ export const Natives = {
   ApplyShopItemToPed: (ped: number, componentHash: number, immediately: boolean, isMp: boolean, p4: boolean) => {
     Citizen.invokeNative('0xD3A7B003ED343FD9', ped, componentHash, immediately, isMp, p4);
   },
+  SetRandomOutfitVariation: (ped: number, p1: boolean) => {
+    Citizen.invokeNative('0x283978A15512B2FE', ped, p1);
+  },
 };
