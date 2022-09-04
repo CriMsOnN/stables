@@ -55,7 +55,7 @@ class Horses {
 
   public getFreePositionInStable(stable: string): number {
     const horses = this.getHorsesByStable(stable);
-    for (let i = 0; i < config.stables[stable].totalSpawnPositions; i++) {
+    for (let i = 0; i < config.stables[stable].spawnPositions.length; i++) {
       let isFree = true;
       for (const [, horse] of horses) {
         if (horse.position === i + 1) {

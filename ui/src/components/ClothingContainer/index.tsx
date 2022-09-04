@@ -8,9 +8,9 @@ const Container = styled("div")({
   marginLeft: "3vw",
   justifyContent: "center",
   height: "100vh",
-  width: "30vw",
-  maxWidth: "30vw",
-  minWidth: "20vw",
+  width: "40vw",
+  maxWidth: "40vw",
+  minWidth: "40vw",
 });
 
 const ClothContainer = styled("div")({

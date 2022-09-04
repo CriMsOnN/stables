@@ -12,7 +12,8 @@ class Prompt {
     promptText: string,
     promptControl: number,
     isActive: boolean,
-    isEnabled: boolean
+    isEnabled: boolean,
+    groupId?: number
   ) {
     this.promptHandle = promptHandle;
     this.promptName = promptName;
@@ -45,6 +46,10 @@ class Prompt {
     return this.isEnabled;
   }
 
+  public setPromptToGroup(groupId: number) {
+    Citizen.invokeNative("0x2F11D3A254169EA4", this.promptHandle, groupId);
+  }
+
   public setPromptEnabled(enabled: boolean) {
     Citizen.invokeNative("0x8A0FB4D03A630D21", this.promptHandle, enabled);
     this.isEnabled = enabled;
@@ -62,6 +67,17 @@ class Prompt {
   public isPromptVisible() {
     return this.isActive;
   }
+
+  public setHoldMode(hold: boolean) {
+    Citizen.invokeNative("0x94073D5CA3F16B7B", this.promptHandle, hold);
+  }
+
+  public hasHoldModeCompleted() {
+    return Citizen.invokeNative<boolean>(
+      "0xE0F65F0640EF0617",
+      this.promptHandle
+    );
+  }
 }
 
 class PromptManager {
@@ -71,7 +87,7 @@ class PromptManager {
     promptName: string,
     promptText: string,
     promptControl: number
-  ): void {
+  ): Prompt {
     const promptHandle = Citizen.invokeNative<number>("0x04F97DE45A519419");
     const newPrompt = new Prompt(
       promptHandle,
@@ -83,6 +99,7 @@ class PromptManager {
     );
     this.prompts.set(promptName, newPrompt);
     Citizen.invokeNative("0xF7AA2696A22AD8B9", promptHandle);
+    return newPrompt;
   }
 
   public getPromptHandle(promptName: string): Prompt {

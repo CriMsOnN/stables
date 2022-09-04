@@ -36,7 +36,7 @@ setImmediate(async () => {
 });
 
 on("pointInside", async (isInside: boolean, name: string) => {
-  if (config.stables[name] && isInside) {
+  if (isInside && config.stables[name]) {
     isPlayerInsideStable = true;
     activeStable = name;
     const horses = Horses.getHorsesByStable(name);
@@ -80,11 +80,22 @@ on("pointInside", async (isInside: boolean, name: string) => {
           }
 
           activeHorsePeds.push(ped);
-          promptManager.createPrompt(`stable_${i}`, "Use Horse", 0xc1989f95);
+          const promptHandle = promptManager.createPrompt(
+            `stable_${i}_use`,
+            "Use Horse",
+            parseInt(config.interaction.useHorse)
+          );
+          const promptHandle2 = promptManager.createPrompt(
+            `stable_${i}_customize`,
+            "Customize Horse",
+            parseInt(config.interaction.customizeHorse)
+          );
+          promptHandle.setHoldMode(true);
+          promptHandle2.setHoldMode(true);
         }
       }
     }
-  } else if (!isInside) {
+  } else {
     if (activeHorsePeds.length > 0) {
       for (let i = 0; i < activeHorsePeds.length; i++) {
         DeletePed(activeHorsePeds[i]);
@@ -105,7 +116,12 @@ setTick(async () => {
         i < config.stables[activeStable].spawnPositions.length;
         i++
       ) {
-        const promptHandle = promptManager.getPromptHandle(`stable_${i}`);
+        const usePromptHandle = promptManager.getPromptHandle(
+          `stable_${i}_use`
+        );
+        const customizePromptHandle = promptManager.getPromptHandle(
+          `stable_${i}_customize`
+        );
         if (
           GetDistanceBetweenCoords(
             x,
@@ -118,13 +134,30 @@ setTick(async () => {
           ) < 3.0
         ) {
           sleep = 0;
-          if (promptHandle) {
-            promptHandle.setPromptVisible(true);
-          }
-        } else {
-          if (promptHandle && promptHandle.isPromptVisible()) {
-            promptHandle.setPromptVisible(false);
-            promptHandle.setPromptEnabled(false);
+          const [retval, entity] = GetPlayerTargetEntity(PlayerId());
+          if (retval && entity) {
+            const groupId = Citizen.invokeNative<number>(
+              "0xB796970BD125FCE8",
+              entity
+            );
+            usePromptHandle.setPromptToGroup(groupId);
+            customizePromptHandle.setPromptToGroup(groupId);
+            if (usePromptHandle && customizePromptHandle) {
+              usePromptHandle.setPromptVisible(true);
+              usePromptHandle.setPromptEnabled(true);
+              customizePromptHandle.setPromptVisible(true);
+              customizePromptHandle.setPromptEnabled(true);
+              if (usePromptHandle.hasHoldModeCompleted()) {
+                SendNuiMessage(
+                  JSON.stringify({
+                    action: "setVisible",
+                    data: true,
+                  })
+                );
+              } else if (customizePromptHandle.hasHoldModeCompleted()) {
+                console.log("customize completed");
+              }
+            }
           }
         }
       }

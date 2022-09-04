@@ -1,6 +1,10 @@
 export interface ConfigProps {
   debug: boolean;
   stables: ConfigStables;
+  interaction: {
+    useHorse: string;
+    customizeHorse: string;
+  };
 }
 
 interface ConfigStables {
@@ -18,7 +22,6 @@ interface ConfigStables {
         type: string;
       };
     };
-    totalSpawnPositions: number;
     spawnPositions: spawnPosition[];
   };
 }

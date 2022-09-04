@@ -16,7 +16,6 @@
           "event": "pointInside"
         }
       },
-      "totalSpawnPositions": 8,
       "spawnPositions": [
         {
           "x": -369.5825,
@@ -68,5 +67,9 @@
         }
       ]
     }
+  },
+  "interaction": {
+    "useHorse": "0xcefd9220",
+    "customizeHorse": "0xd8f73058"
   }
 }
