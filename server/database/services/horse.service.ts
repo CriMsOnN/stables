@@ -19,6 +19,23 @@ export class HorseService {
     return newHorse;
   }
 
+  public async updateHorse(horse: Horse): Promise<Horse> {
+    console.log(horse.position, horse.horseName, horse.isActive, horse.stored);
+    const updatedHorse = await this.horseRepo
+      .createQueryBuilder()
+      .update({
+        stored: horse.stored,
+        position: horse.position,
+        isActive: horse.isActive,
+      })
+      .where({
+        cid: horse.cid,
+        horseName: horse.horseName,
+      })
+      .execute();
+    return updatedHorse.raw[0];
+  }
+
   public async getPlayerHorses(cid: number): Promise<Horse[]> {
     const horses = await this.horseRepo.find({
       select: {

@@ -18,6 +18,8 @@ interface Components {
 class Horses {
   private _horses: Map<string, HorsesProps> = new Map();
 
+  private _activeHorse: string | null = null;
+
   public getHorseByName(name: string): HorsesProps | undefined {
     const horses = this._horses.get(name);
     if (!horses) {
@@ -27,7 +29,36 @@ class Horses {
   }
 
   public setHorse(horse: HorsesProps) {
+    if (horse.isActive) {
+      this._activeHorse = horse.horseName;
+    }
     this._horses.set(horse.horseName, horse);
+  }
+
+  public storeHorseInStable(stable: string, horseName: string) {
+    const horse = this.getHorseByName(horseName);
+    if (horse) {
+      horse.stored = true;
+      horse.position = this.getFreePositionInStable(stable);
+      horse.stable = stable;
+      horse.isActive = false;
+      this.setHorse(horse);
+    }
+  }
+
+  public releaseHorseFromStable(stable: string, position: number) {
+    const horse = this.getHorseByPosition(stable, position);
+    if (horse) {
+      horse.stored = false;
+      horse.stable = '';
+      horse.position = 0;
+      horse.isActive = true;
+      this.setHorse(horse);
+    }
+  }
+
+  public getActiveHorse() {
+    return this._activeHorse;
   }
 
   public getAllHorses(): Map<string, HorsesProps> {
